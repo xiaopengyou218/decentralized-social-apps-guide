@@ -241,6 +241,7 @@ Decentralized networking/transport libraries and utilities
 #### Decentralized Search and Indexing
 * [Admarus](https://github.com/Mubelotix/admarus) - Peer-to-Peer Search Engine for IPFS
 * [Kamilata](https://github.com/Mubelotix/kamilata) - Peer-to-Peer Search Engine System using the Kamilata protocol. Kamilata enables trustless search in open networks. This library can handle any type of data, and be easily integrated into your libp2p application. Powers the Adamarus IPFS search engine.
+* [Web3.bio](https://web3.bio/) - A Web3 Identity Search platform that includes Web3 domains like Ethereum Name Service (ENS), Unstoppable Domains, SPACE ID, and more. It also covers Web3 social platform accounts such as Farcaster, Lens, and others. Additionally, it supports visualizing identity graphs and Web3 profiles.
 
 #### Decentralized AI
 AI and machine learning libraries and resources for what is often called "Federated Learning" and sometimes "Decentralized AI" among other terms. AI techniques that can work on data that is separate/private and possibly held on user's edge devices (e.g. smartphones).
